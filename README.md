@@ -12,6 +12,14 @@
 - 您可一邊看著Dansky的影片, 一邊以我準備的檔案操作
 
 [範例檔路徑](./af-samples/)
+- 認識Affinity-01.af : 影片1~10
+- 認識Affinity-11.af : 影片11~20
+- 認識Affinity-21.af : 影片21~22
+- 認識Affinity-23.af : 影片23~30
+
+[整包下載.ZIP(約80MB)](https://github.com/yiming/affinity-af/releases/download/V1.0/affinity-af-1.0.zip)
+
+![](./af-samples/頁面範例.png)
 
 ## 優質Youtube影片及頻道
 Affinity歷史有10年以上, 在國外早有穩定用戶群, 雖然比例不高, 但也不可忽視。
